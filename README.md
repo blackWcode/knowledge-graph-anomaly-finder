@@ -4,4 +4,3 @@ The Idea: Build a small dictionary- or list-based graph in Python that represent
 Why it connects: It introduces Knowledge Graph structures and relational reasoning, helping you practice querying structured symbolic data programmatically to audit system behaviour.
 
 
-🌐 **Website:** https://blackwcode.github.io/knowledge-graph-anomaly-finder/ (interactive demo of the notebook's audit)
